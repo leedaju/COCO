@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input.Plugins", "input.Plugins.csproj", "{0368EE87-76F9-C4C2-F4C9-1BB264C9DBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input", "input.csproj", "{52F69EFA-FBBC-B363-BD01-D77DBB20CD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0368EE87-76F9-C4C2-F4C9-1BB264C9DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0368EE87-76F9-C4C2-F4C9-1BB264C9DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0368EE87-76F9-C4C2-F4C9-1BB264C9DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0368EE87-76F9-C4C2-F4C9-1BB264C9DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F69EFA-FBBC-B363-BD01-D77DBB20CD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F69EFA-FBBC-B363-BD01-D77DBB20CD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F69EFA-FBBC-B363-BD01-D77DBB20CD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F69EFA-FBBC-B363-BD01-D77DBB20CD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
