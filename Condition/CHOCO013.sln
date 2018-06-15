@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHOCO013.Plugins", "CHOCO013.Plugins.csproj", "{84262B7A-BF25-DA43-F2C5-432496AF7315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHOCO013", "CHOCO013.csproj", "{0AD61252-2C57-1350-0A05-52FC7E05D5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84262B7A-BF25-DA43-F2C5-432496AF7315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84262B7A-BF25-DA43-F2C5-432496AF7315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84262B7A-BF25-DA43-F2C5-432496AF7315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84262B7A-BF25-DA43-F2C5-432496AF7315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD61252-2C57-1350-0A05-52FC7E05D5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD61252-2C57-1350-0A05-52FC7E05D5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD61252-2C57-1350-0A05-52FC7E05D5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD61252-2C57-1350-0A05-52FC7E05D5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
