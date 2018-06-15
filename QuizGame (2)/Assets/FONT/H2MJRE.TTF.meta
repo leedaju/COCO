@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 54b0886bef87e4c4a9fad85abae7bf71
+timeCreated: 1526583280
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HYMyeongJo-Extra
+  fontNames:
+  - HYMyeongJo-Extra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

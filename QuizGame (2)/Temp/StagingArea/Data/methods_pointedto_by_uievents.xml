@@ -1,0 +1,18 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="DialogueManager">
+			<method name="ClickSkip"/>
+		</type>
+		<type fullname="DialogueTrigger">
+			<method name="TriggerDialogue"/>
+		</type>
+		<type fullname="MoveScene">
+			<method name="MoveToScene"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="SetRandomQuestion"/>
+			<method name="CheckAnswers"/>
+			<method name="GoNextProblem"/>
+		</type>
+	</assembly>
+</linker>
